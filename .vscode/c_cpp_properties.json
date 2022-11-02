@@ -1,12 +1,17 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
 {
     "configurations": [
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/USER/OneDrive/Documents/GitHub/lora/include",
-                "c:/Users/USER/OneDrive/Documents/GitHub/lora/src",
-                "c:/Users/USER/OneDrive/Documents/GitHub/lora/.pio/libdeps/heltec_wifi_lora_32/DallasTemperature",
-                "c:/Users/USER/OneDrive/Documents/GitHub/lora/.pio/libdeps/heltec_wifi_lora_32/OneWire",
+                "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/include",
+                "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/src",
+                "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/.pio/libdeps/heltec_wifi_lora_32/DallasTemperature",
+                "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/.pio/libdeps/heltec_wifi_lora_32/OneWire",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -195,7 +200,7 @@
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/variants/heltec_wifi_lora_32",
-                "c:/Users/USER/OneDrive/Documents/GitHub/lora/lib/ESP32_LoRaWAN",
+                "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/lib/ESP32_LoRaWAN",
                 "C:/Users/USER/.platformio/lib/DMD-master",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
@@ -229,16 +234,15 @@
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
-                "",
-                "C:/Users/USER/OneDrive/Desktop/lora/lib/ESP32_LoRaWAN/src"
+                ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/include",
-                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/src",
-                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/.pio/libdeps/heltec_wifi_lora_32/DallasTemperature",
-                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/.pio/libdeps/heltec_wifi_lora_32/OneWire",
+                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/include",
+                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/src",
+                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/.pio/libdeps/heltec_wifi_lora_32/DallasTemperature",
+                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/.pio/libdeps/heltec_wifi_lora_32/OneWire",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -427,7 +431,7 @@
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/variants/heltec_wifi_lora_32",
-                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/lib/ESP32_LoRaWAN",
+                    "c:/Users/USER/OneDrive/Documents/GitHub/lora/lora/lib/ESP32_LoRaWAN",
                     "C:/Users/USER/.platformio/lib/DMD-master",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
